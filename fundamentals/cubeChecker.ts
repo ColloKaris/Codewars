@@ -20,5 +20,5 @@ export function cubeChecker(volume: number, side: number): boolean{
   return false;
 }
 
-const result = cubeChecker(1, 1);
-console.log(result);
+// const result = cubeChecker(1, 1);
+// console.log(result);
